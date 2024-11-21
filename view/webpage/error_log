@@ -1,0 +1,28 @@
+[01-May-2024 11:23:34 UTC] PHP Warning:  include(protection.php): Failed to open stream: No such file or directory in /home/zapsolut/public_html/view/webpage/index.php on line 8
+[01-May-2024 11:23:34 UTC] PHP Warning:  include(): Failed opening 'protection.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zapsolut/public_html/view/webpage/index.php on line 8
+[01-May-2024 11:23:34 UTC] PHP Warning:  Undefined variable $redirect in /home/zapsolut/public_html/view/webpage/index.php on line 9
+[01-May-2024 11:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text_spox() in /home/zapsolut/public_html/view/webpage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zapsolut/public_html/view/webpage/index.php on line 16
+[14-Jun-2024 18:52:13 UTC] PHP Warning:  include(protection.php): Failed to open stream: No such file or directory in /home/zapsolut/public_html/view/webpage/index.php on line 8
+[14-Jun-2024 18:52:13 UTC] PHP Warning:  include(): Failed opening 'protection.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zapsolut/public_html/view/webpage/index.php on line 8
+[14-Jun-2024 18:52:13 UTC] PHP Warning:  Undefined variable $redirect in /home/zapsolut/public_html/view/webpage/index.php on line 9
+[14-Jun-2024 18:52:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text_spox() in /home/zapsolut/public_html/view/webpage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zapsolut/public_html/view/webpage/index.php on line 16
+[11-Jul-2024 20:20:26 UTC] PHP Warning:  include(protection.php): Failed to open stream: No such file or directory in /home/zapsolut/public_html/view/webpage/index.php on line 8
+[11-Jul-2024 20:20:26 UTC] PHP Warning:  include(): Failed opening 'protection.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zapsolut/public_html/view/webpage/index.php on line 8
+[11-Jul-2024 20:20:26 UTC] PHP Warning:  Undefined variable $redirect in /home/zapsolut/public_html/view/webpage/index.php on line 9
+[11-Jul-2024 20:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text_spox() in /home/zapsolut/public_html/view/webpage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zapsolut/public_html/view/webpage/index.php on line 16
+[09-Aug-2024 14:13:22 UTC] PHP Warning:  include(protection.php): Failed to open stream: No such file or directory in /home/zapsolut/public_html/view/webpage/index.php on line 8
+[09-Aug-2024 14:13:22 UTC] PHP Warning:  include(): Failed opening 'protection.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zapsolut/public_html/view/webpage/index.php on line 8
+[09-Aug-2024 14:13:22 UTC] PHP Warning:  Undefined variable $redirect in /home/zapsolut/public_html/view/webpage/index.php on line 9
+[09-Aug-2024 14:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text_spox() in /home/zapsolut/public_html/view/webpage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zapsolut/public_html/view/webpage/index.php on line 16

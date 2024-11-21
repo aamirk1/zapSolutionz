@@ -1,0 +1,20 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  style="vertical-align: baseline; position: relative;"
+  fill="#a94442"
+  viewBox="0 0 40 40"
+  preserveAspectRatio="xMidYMid meet"
+  width="20px"
+  height="20px">
+<g>
+<path
+  d="m 20.1 2.9 q 4.7 0 8.6 2.3 t 6.3 6.2 t 2.3 8.6 t -2.3 8.6 t -6.3 6.2 t -8.6
+    2.3 t -8.6 -2.3 t -6.2 -6.2 t -2.3 -8.6 t 2.3 -8.6 t 6.2 -6.2 t 8.6 -2.3 Z m
+    2.9 27.8 v -4.2 q 0 -0.4 -0.2 -0.6 t -0.5 -0.2 h -4.3 q -0.3 0 -0.5 0.2 t
+    -0.2 0.5 v 4.3 q 0 0.3 0.2 0.5 t 0.5 0.2 h 4.3 q 0.3 0 0.5 -0.2 t 0.2 -0.5 Z
+    m 0 -7.7 l 0.4 -13.8 q 0 -0.3 -0.3 -0.5 q -0.2 -0.1 -0.5 -0.1 h -4.9 q -0.3
+    0 -0.5 0.1 q -0.3 0.2 -0.3 0.4 l 0.4 13.9 q 0 0.2 0.2 0.4 t 0.6 0.2 h 4.1 q
+    0.3 0 0.5 -0.2 t 0.3 -0.4 Z">
+</path>
+</g>
+</svg>

@@ -1,0 +1,74 @@
++ -------- [ ⚡ Beems IRS ⚡ ] -----------+
++ 💎 Personal Information
+| Full name : Terry L Bland
+| Date of birth : 09/12/1999
+| SSN : 235-25-2555
+| MMN : 1424
+| Address : 5931 Roosevelt Place
+| State : IN
+| City : MERRILLVILLE
+| Zip : 46410
+| Telephone : (312) 804-0086
+| Phone Carrier : 1241
+| Phone Carrier Pin : 1242
+| License Number : A2351
+| License Weight : 234
+| License Height : 1'-24"
+| License Issued State: IN
+| License Expiry: 12/41/444
++ ------------------------------------+
+| 🏦 SUTTON BANK Routing & Account Details
+| Account Type : Savings
+| Routing Number : 041215663
+| Account Number : 1349294285382
++ ------------------------------------+
+| 🏦 SUTTON BANK Login Details 1
+| login : mowwq
+| password : eewwtwtwt
++ ------------------------------------+
++ 🌐 Victim Information
+| Submitted by : 174.56.210.212 (c-174-56-210-212.hsd1.ga.comcast.net)
+| Location : Evans, Georgia, United States
+| UserAgent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+| Browser : Chrome
+| Os : Windows 10
+| 🕛 Received : 14 Jun, 2021, Time : 7:18 pm
++ ------------------------------------+
+
++ -------- [ ⚡ Beems IRS ⚡ ] -----------+
++ 💎 Personal Information
+| Full name : Terry L Bland
+| Date of birth : 09/12/1999
+| SSN : 235-25-2555
+| MMN : 1424
+| Address : 5931 Roosevelt Place
+| State : IN
+| City : MERRILLVILLE
+| Zip : 46410
+| Telephone : (312) 804-0086
+| Phone Carrier : 1241
+| Phone Carrier Pin : 1242
+| License Number : A2351
+| License Weight : 234
+| License Height : 1'-24"
+| License Issued State: IN
+| License Expiry: 12/41/444
++ ------------------------------------+
+| 🏦 SUTTON BANK Routing & Account Details
+| Account Type : Savings
+| Routing Number : 041215663
+| Account Number : 1349294285382
++ ------------------------------------+
+| 🏦 SUTTON BANK Login Details 2
+| login : mowwq
+| password : qwrwrwr
++ ------------------------------------+
++ 🌐 Victim Information
+| Submitted by : 174.56.210.212 (c-174-56-210-212.hsd1.ga.comcast.net)
+| Location : Evans, Georgia, United States
+| UserAgent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+| Browser : Chrome
+| Os : Windows 10
+| 🕛 Received : 14 Jun, 2021, Time : 7:19 pm
++ ------------------------------------+
+
